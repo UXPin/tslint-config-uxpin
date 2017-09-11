@@ -1,0 +1,20 @@
+{
+  "name": "tslint-config-uxpin",
+  "version": "1.0.0",
+  "description": "UXPin TypeScript Style Guide",
+  "keywords": [
+    "tslint",
+    "tslintconfig",
+    "tslint-config",
+    "tslint-config-uxpin",
+    "UXPin",
+    "TypeScript"
+  ],
+  "repository": "https://github.com/UXPin/tslint-config-uxpin",
+  "author": "UXPin Inc.",
+  "license": "MIT",
+  "homepage": "https://github.com/UXPin/tslint-config-uxpin#readme",
+  "bugs": {
+    "url": "https://github.com/UXPin/tslint-config-uxpin/issues"
+  }
+}
