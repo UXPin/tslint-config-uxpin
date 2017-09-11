@@ -14,7 +14,10 @@
       "variable-declaration",
       "member-variable-declaration"
     ],
-    "max-line-length": [true, 120],
+    "max-line-length": [
+      true,
+      120
+    ],
     "member-ordering": [
       true,
       {
@@ -58,9 +61,18 @@
     "no-invalid-this": true,
     "no-default-export": true,
     "arrow-parens": true,
-    "interface-name": [true, "never-prefix"],
+    "interface-name": [
+      true,
+      "never-prefix"
+    ],
     "prefer-function-over-method": true,
-    "align": false
+    "align": false,
+    "prefer-array-literal": [
+      true,
+      {
+        "allow-type-parameters": true
+      }
+    ]
   },
   "rulesDirectory": []
 }
