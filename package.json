@@ -13,8 +13,16 @@
   "repository": "https://github.com/UXPin/tslint-config-uxpin",
   "author": "UXPin Inc.",
   "license": "MIT",
+  "main": "tslint.json",
   "homepage": "https://github.com/UXPin/tslint-config-uxpin#readme",
   "bugs": {
     "url": "https://github.com/UXPin/tslint-config-uxpin/issues"
+  },
+  "peerDependencies": {
+    "tslint": "^5.7.0",
+    "typescript": "^2.5.2"
+  },
+  "dependencies": {
+    "tslint-config-airbnb": "^5.2.1"
   }
 }
