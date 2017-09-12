@@ -61,6 +61,7 @@
     "no-invalid-this": true,
     "no-default-export": true,
     "arrow-parens": true,
+    "ter-arrow-parens": true,
     "interface-name": [
       true,
       "never-prefix"
