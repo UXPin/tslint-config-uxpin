@@ -73,7 +73,8 @@
       {
         "allow-type-parameters": true
       }
-    ]
+    ],
+    "object-shorthand-properties-first": false
   },
   "rulesDirectory": []
 }
