@@ -74,7 +74,8 @@
         "allow-type-parameters": true
       }
     ],
-    "object-shorthand-properties-first": false
+    "object-shorthand-properties-first": false,
+    "variable-name": [true, "allow-pascal-case"]
   },
   "rulesDirectory": []
 }
