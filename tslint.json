@@ -86,9 +86,9 @@
         "asyncArrow": "always",
         "constructor": "never",
         "method": "never",
-        "named": "never",
-      },
-    ],
+        "named": "never"
+      }
+    ]
   },
   "rulesDirectory": []
 }
