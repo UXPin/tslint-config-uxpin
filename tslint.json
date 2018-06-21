@@ -78,7 +78,17 @@
       }
     ],
     "object-shorthand-properties-first": false,
-    "strict-boolean-expressions": false
+    "strict-boolean-expressions": false,
+    "space-before-function-paren": [
+      true,
+      {
+        "anonymous": "never",
+        "asyncArrow": "always",
+        "constructor": "never",
+        "method": "never",
+        "named": "never"
+      }
+    ]
   },
   "rulesDirectory": []
 }
