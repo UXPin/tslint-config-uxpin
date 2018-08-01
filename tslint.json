@@ -88,8 +88,8 @@
         "method": "never",
         "named": "never"
       }
-    ]
+    ],
+    "no-unused-variable": true
   },
-  "no-unused-variable": true,
   "rulesDirectory": []
 }
