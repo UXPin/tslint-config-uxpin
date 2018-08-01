@@ -90,5 +90,6 @@
       }
     ]
   },
+  "no-unused-variable": true,
   "rulesDirectory": []
 }
