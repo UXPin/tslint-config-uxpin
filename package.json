@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-uxpin",
-  "version": "1.7.0-0",
+  "version": "1.7.0",
   "description": "UXPin TypeScript Style Guide",
   "keywords": [
     "tslint",
