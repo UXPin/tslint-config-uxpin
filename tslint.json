@@ -89,7 +89,8 @@
         "named": "never"
       }
     ],
-    "no-unused-variable": true
+    "no-unused-variable": true,
+    "prefer-for-of": false
   },
   "rulesDirectory": []
 }
